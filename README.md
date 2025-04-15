@@ -77,7 +77,7 @@ Now, after two years, I decided to give it a proper update with a better UI and 
 ### Some Follow up tweets
 ![Tweet](History-Assets/tweets.gif)
 ![Tweet](History-Assets/d1.png)
-![Tweet](History-Assets/n1.png)
+![Tweet](History-Assets/n2.png)
 ![Tweet](History-Assets/p1.png)
 
 ### Preserved line
