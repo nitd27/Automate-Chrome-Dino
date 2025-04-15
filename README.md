@@ -75,10 +75,13 @@ Now, after two years, I decided to give it a proper update with a better UI and 
 ![Tweet](History-Assets/tweets.gif)
 
 ### Some Follow up tweets
-![Tweet](History-Assets/tweets.gif)
+
 ![Tweet](History-Assets/d1.png)
 ![Tweet](History-Assets/n2.png)
 ![Tweet](History-Assets/p1.png)
+
+### No more last edited 2 years ago
+![Tweet](History-Assets/Preview-Apr-16-2025.png)
 
 ### Preserved line
 To download the text file of code [click here](https://github.com/nitd27/Automate-tRex/releases/tag/V1)
